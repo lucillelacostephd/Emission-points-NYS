@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 10 17:41:37 2023
-Plot to create a figure showing the emission points.
+(FIRST VERSION) Plot to create a figure showing the emission points.
 @author: lb945465
 """
 
